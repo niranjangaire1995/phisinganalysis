@@ -41,6 +41,11 @@ I then opened the website in a sandbox environment: The issue persists. The webs
 Using the developer tools to change the website view to a smart phone view:
 ![image](https://github.com/user-attachments/assets/2a73863b-5a43-4e2d-b52e-75929dfe1444)
 
+Upon opening the smart phone version of the website in a sandbox environment:
+None of the pages shown in the website is working except for the pay button. Which redirects to contact information page and to the credit card information page to scam the victim.
+![Project 2 image](https://github.com/user-attachments/assets/1ee0cbfb-1750-4e7e-b464-ebf8215c4137)
+![project 1 image](https://github.com/user-attachments/assets/b3bdb636-3031-4b77-ae4f-65c8336c9729)
+
 
 Presence of the chinese alphabets in the comments section :
 ![image](https://github.com/user-attachments/assets/68fd55eb-e962-47c1-a523-c0641133cc3b)
