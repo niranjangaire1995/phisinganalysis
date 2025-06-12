@@ -39,12 +39,16 @@ This micro-project documents my analysis of a phishing SMS received on **June 11
 
 <img src="https://github.com/user-attachments/assets/1917d1ae-4494-4918-b36e-c6150b80a701" width="600"/>
 <img src="https://github.com/user-attachments/assets/7a71d7cc-74bd-41d4-9356-e8d3dcb41451" width="600"/>
+<br>
+The site is behind Cloudflare, possibly to mask the real server or to prevent easy takedown.
+TLS certificate: Issued by WE1 on June 11th 2025. Valid for: 3 months which is signaling a possible phishing scam.
 
 ---
 
 **🧪 VirusTotal:**  
 URL: [View Report](https://www.virustotal.com/gui/url/69bddb273b28f656db8a5607bd233bdbd5bf037c1a1fd0757dc44dd81977c7c2?nocache=1)  
 <img src="https://github.com/user-attachments/assets/d03dfd8c-a826-4188-bc25-33c04635b356" width="600"/>
+<br><br>Three out of 97 security vendors flagged the URL as malicious, identifying it primarily as phishing, while most others found it clean. This mixed detection suggests caution, as the site likely poses a phishing risk despite limited consensus.
 
 ---
 
@@ -105,7 +109,7 @@ Originally accessible during my analysis, the site is now flagged as deceptive b
 - Educate users to spot suspicious SMS patterns
 - Report phishing SMS to:
   - [FTC](https://reportfraud.ftc.gov/)
-  - Mobile carriers (e.g., forward to 7726)
+  - Mobile carriers 
 
 ---
 
