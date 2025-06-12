@@ -7,6 +7,8 @@ This micro-Phising Analysis project contains my analysis of a phishing SMS recei
 
 ### 📱 Original Phishing SMS Content
 
+<b>Phising Type<b>: Credentials Harvester
+
 <img src="https://github.com/user-attachments/assets/fb393723-af41-4a02-bd63-98e8ef61ccd4" width="600"/>
 
 *Figure: Screenshot of the actual phishing SMS impersonating the Ohio BMV.*
